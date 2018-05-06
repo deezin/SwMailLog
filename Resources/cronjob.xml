@@ -6,7 +6,7 @@
         <name>E-Mail-Log leeren</name>
         <action>Shopware_CronJob_PurgeMailLog</action>
         <active>true</active>
-        <interval>1</interval>
+        <interval>86400</interval>
         <disableOnError>true</disableOnError>
     </cronjob>
 
