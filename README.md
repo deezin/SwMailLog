@@ -1,9 +1,10 @@
 # Shopware Mail Log
-> Logs all the mails sent through your shop in the database and displays them in the backend.
+> Logs all the mails sent through your shop in the database and displays them in the backend. 
 
 ## Installation
 
 Move the plugin to the `custom/plugins` directory on your server and activate it via the plugin manager.
+Please configure the Cron Plugin as described [here](https://docs.shopware.com/en/shopware-5-en/settings/system-cronjobs), to use the Plugin's Cronjob.
 
 ## Meta
 
